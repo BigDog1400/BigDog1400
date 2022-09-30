@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **const.isaac@gmail.com**
 
+- 🛠️ I've done **https://usejobs.vercel.app**
+
+- 👷 I am building **https://mikiosko-development.vercel.app/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/log1400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="log1400" height="30" width="40" /></a>
