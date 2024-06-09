@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigdog1400&label=Profile%20views&color=0e75b6&style=flat" alt="bigdog1400" /> </p>
 
-- 🌱 I’m currently learning **backend development, aws and blockchain stuff**
+- 🌱 I’m currently learning Godot
 
-- 💬 Ask me about **react,nextjs,typescript**
+- 💬 Ask me about **react,nextjs,typescript, ai stuff**
 
 - 📫 How to reach me **const.isaac@gmail.com**
 
-- 🛠️ I've done **https://usejobs.vercel.app**
-
-- 👷 I am building **https://mikiosko-development.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
